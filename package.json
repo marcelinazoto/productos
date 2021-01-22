@@ -1,0 +1,23 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "products list",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marcelinazoto/products.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "marcelinazoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelinazoto/products/issues"
+  },
+  "homepage": "https://github.com/marcelinazoto/products#readme"
+}
